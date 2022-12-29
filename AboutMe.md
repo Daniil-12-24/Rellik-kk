@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rellik-kk
-- 👀 I’m interested in programming (pre intern :) )
-- 🌱 I’m currently learning pythong language
-- 💞️ I’m looking to collaborate on python tranie developer
+- 👀 I’m interested in programming!
+- 🌱 I’m currently learning pythong programming language
+- 💞️ I'm looking for an apportunity to become a python (backend) developer.
 - 📫 How to reach me smokequitz@gmail.com or danikponomarev59@gmail.com / for Ukrainian users - https://t.me/rellik_qq
 
 <!---
